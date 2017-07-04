@@ -1,0 +1,9 @@
+
+* About
+
+This repo contains the files for linkedin's =D3.js Essential Training for Data Scientists= class.
+
+* Branches
+
+The =master= branch contains my files as I participate in the class.
+The =originalFiles= branch contains just the files downloaded for the class.
